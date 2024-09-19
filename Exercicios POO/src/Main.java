@@ -40,12 +40,4 @@ public class Main {
         Automoveis carro = new Automoveis("Toyota", "Corolla", 2020);
         carro.exibirInformacoes();
 
-        System.out.println();
-        System.out.println("---------------");
-        System.out.println("Classe Objetos Geométricos ");
-
-        // Criando um objeto da classe ObjetosGeometricos
-        ObjetosGeometricos circulo = new ObjetosGeometricos("Círculo", 78.5);
-        circulo.exibirInformacoes();
-    }
 }
